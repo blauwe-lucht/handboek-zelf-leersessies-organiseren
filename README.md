@@ -17,14 +17,15 @@ Als het team antwoord heeft op deze vragen is het klaar om te beginnen:
 - [Hoe evalueren we de sessie en passen we het geleerde toe?](#hoe-evalueren-we-de-sessie-en-passen-we-het-geleerde-toe)
 - [Hoe evalueren en verbeteren we periodiek onze overkoepelende aanpak?](#hoe-evalueren-en-verbeteren-we-periodiek-onze-overkoepelende-aanpak)
 
-Hieronder zijn al deze vragen uitgewerkt.
+Het team kan deze vragen op zijn eigen manier beantwoorden, of gebruik
+maken van de uitwerking van deze vragen hieronder.
 
 ### Hoe kiezen en prioriteren we onderwerpen?
 
 Voor het antwoord hebben we nodig:
 
 - mogelijke bronnen voor onderwerpen
-- prioriteringscriteria (scoren op een aantal facetten, kosten/baten matrix)
+- prioriteringscriteria (scoren op een aantal facetten, kosten-batenmatrix)
 - selectiemethode
 - procesafspraken: wanneer kiezen we, wie neemt het initiatief en waar houden we
   de onderwerpen bij?
@@ -257,7 +258,7 @@ Structuur sessie:
 | Deelnemers verschillen sterk in kennis       | Maak groepjes met gemengde ervaring of bied opdrachten op verschillende niveaus aan.   |
 | Deelnemers zijn het oneens                   | Laat ze hun aannames duidelijk krijgen en onderzoeken hoe ze die kunnen toetsen.       |
 | Een oefening blijkt niet te werken           | Onderzoek of het probleem leerzaam is; zo niet, gebruik een eenvoudiger alternatief.   |
-| De facilitator loopt vast/weet het niet meer | Sessie even stop zetten, hulp/advies vragen of vragen of iemand het over wil nemen.    |
+| De facilitator loopt vast/weet het niet meer | Sessie even stopzetten, hulp/advies vragen of vragen of iemand het over wil nemen.    |
 
 #### Overige tips
 
@@ -266,12 +267,7 @@ variëren in de verschillende soorten interactie tijdens sessies.
 
 ### Hoe evalueren we de sessie en passen we het geleerde toe?
 
-Template voor 15 minuten 1-2-4-all evaluatie aan het eind van elke sessie,
-facilitator doet alleen mee bij de 'all' fase:
-
-#### Leersessie Review - 15 min
-
-Individueel reflecteren → gezamenlijk bespreken → verbeteren
+#### Voorstel voor werkvorm van 15 minuten aan het einde van elke sessie
 
 Aan de hand van vier vragen die leiden tot een verbetering:
 
