@@ -163,7 +163,7 @@ niet een kennishouder is, kun je werkvormen indelen in zes combinaties:
 
 ### Hoe bereiden we de sessie voor?
 
-Bereid altijd met twee voor. Kies uiteindelijk 1 als facilitator van de sessie.
+Bereid in het begin altijd met twee personen voor. Kies uiteindelijk één als facilitator van de sessie.
 Bereid niet meer voor dan nodig, maar voorkom dat praktische problemen de sessie
 verstoren.
 
