@@ -164,7 +164,8 @@ niet een kennishouder is, kun je werkvormen indelen in zes combinaties:
 
 ### Hoe bereiden we de sessie voor?
 
-Bereid in het begin altijd met twee personen voor. Kies uiteindelijk één als facilitator van de sessie.
+Bereid in het begin altijd met twee personen voor.
+Kies uiteindelijk één als facilitator van de sessie.
 Bereid niet meer voor dan nodig, maar voorkom dat praktische problemen de sessie
 verstoren.
 
@@ -248,17 +249,19 @@ Structuur sessie:
 
 #### Wat doe je bij veelvoorkomende situaties?
 
-| Situatie                                     | Wat kan de facilitator doen?                                                           |
-| -------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Niemand reageert op een vraag                | Geef eerst individuele denktijd of laat deelnemers in tweetallen overleggen.           |
-| Eén persoon domineert                        | Vraag expliciet naar andere inzichten of laat iedereen om de beurt bijdragen.          |
-| Deelnemers lopen vast                        | Stel richtinggevende vragen of geef een kleine hint, zonder de oplossing weg te geven. |
-| De discussie dwaalt af                       | Verwijs naar het leerdoel en parkeer het andere onderwerp.                             |
-| De tijd raakt op                             | Verkort een activiteit, maar behoud tijd voor de gezamenlijke afronding.               |
-| Deelnemers verschillen sterk in kennis       | Maak groepjes met gemengde ervaring of bied opdrachten op verschillende niveaus aan.   |
-| Deelnemers zijn het oneens                   | Laat ze hun aannames duidelijk krijgen en onderzoeken hoe ze die kunnen toetsen.       |
-| Een oefening blijkt niet te werken           | Onderzoek of het probleem leerzaam is; zo niet, gebruik een eenvoudiger alternatief.   |
-| De facilitator loopt vast/weet het niet meer | Sessie even stopzetten, hulp/advies vragen of vragen of iemand het over wil nemen.    |
+| Situatie                                     | Wat kan de facilitator doen?                                                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Niemand reageert op een vraag                | Geef eerst individuele denktijd of laat deelnemers in tweetallen overleggen.                     |
+| Eén persoon domineert                        | Vraag expliciet naar andere inzichten of laat iedereen om de beurt bijdragen.                    |
+| Deelnemers lopen vast                        | Stel richtinggevende vragen of geef een kleine hint, zonder de oplossing weg te geven.           |
+| De discussie dwaalt af                       | Verwijs naar het leerdoel en parkeer het andere onderwerp. Gebruik [ELMO][elmo] met handsignaal. |
+| De tijd raakt op                             | Verkort een activiteit, maar behoud tijd voor de gezamenlijke afronding.                         |
+| Deelnemers verschillen sterk in kennis       | Maak groepjes met gemengde ervaring of bied opdrachten op verschillende niveaus aan.             |
+| Deelnemers zijn het oneens                   | Laat ze hun aannames duidelijk krijgen en onderzoeken hoe ze die kunnen toetsen.                 |
+| Een oefening blijkt niet te werken           | Onderzoek of het probleem leerzaam is; zo niet, gebruik een eenvoudiger alternatief.             |
+| De facilitator loopt vast/weet het niet meer | Sessie even stopzetten, hulp/advies vragen of vragen of iemand het over wil nemen.               |
+
+[elmo]: https://thepersimmongroup.com/e-l-m-o-how-a-muppet-can-save-your-meetings-and-your-sanity/
 
 #### Overige tips
 
@@ -296,3 +299,24 @@ Structuur:
 - Wie bewaakt de planning en voortgang?
 - Hoe verdelen we de verantwoordelijkheden?
 - Hoe evalueren en verbeteren we periodiek onze totaalaanpak voor deze sessies?
+
+#### Grootste risico's en wat het team ertegen kan doen
+
+- **Werkdruk verdringt de sessies.** Plan de sessies voor langere tijd vast in
+  de agenda en behandel ze als vaste afspraak. Verplaats een sessie liever dan
+  dat je hem schrapt, en spreek af wie dat besluit mag nemen.
+- **Alles hangt op één persoon.** Rouleer het voorbereiden en faciliteren,
+  zodat meer teamleden het kunnen en de aanpak niet afhangt van één
+  enthousiasteling.
+- **Er is geen onderwerp of niemand bereidt voor.** Houd een lijst met
+  onderwerpen op prioriteit bij en kies het volgende onderwerp ruim van
+  tevoren. Spreek af wat er gebeurt als de voorbereiding niet af is.
+- **Het geleerde wordt niet toegepast.** Begin elke sessie met het delen van
+  wat deelnemers sinds de vorige sessie hebben toegepast, en kies onderwerpen
+  die aansluiten bij het dagelijkse werk.
+- **De sessies worden een verplicht nummer.** Voer de verbetering uit elke
+  evaluatie echt door en wissel van werkvorm, zodat de sessies waardevol en
+  afwisselend blijven.
+- **Steun van buiten het team valt weg.** Laat de leidinggevende of
+  opdrachtgever regelmatig zien wat de sessies opleveren, bijvoorbeeld met een
+  korte terugkoppeling per kwartaal.
